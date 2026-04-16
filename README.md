@@ -1,14 +1,13 @@
-# AI DevOps Series
-YouTube series on AI powered DevOps engineering.
+# AI CI/CD Agent - Day 3
 
-## Episodes
-- Day 1: AWS Infrastructure Audit Agent
-- Day 2: GitHub Operations with MCP Agent
+This repository is part of the AI DevOps YouTube series.
 
-## Tech Stack
-- Gemini
-- LangChain + LangGraph
+In this project:
+- AI creates CI/CD pipelines
+- AI debugs failures
+- AI fixes workflows automatically
+
+Built using:
 - GitHub MCP
-- AWS CloudShell
-
-This is a small change to trigger the workflow.
+- Gemini AI
+- LangGraph Agent
